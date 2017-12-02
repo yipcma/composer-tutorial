@@ -1,6 +1,6 @@
 /.gtm/
 
-.card
+*.card
 
 # Logs
 logs
